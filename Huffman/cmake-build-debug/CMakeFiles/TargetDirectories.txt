@@ -1,3 +1,3 @@
-C:/Users/User/CLionProjects/PPR_A4/cmake-build-debug/CMakeFiles/PPR_A4.dir
-C:/Users/User/CLionProjects/PPR_A4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/PPR_A4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Huffman-Kodierung/Huffman/cmake-build-debug/CMakeFiles/PPR_A4.dir
+C:/Users/User/Desktop/Huffman-Kodierung/Huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Huffman-Kodierung/Huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
