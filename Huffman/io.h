@@ -5,7 +5,6 @@
 #ifndef IO_H
 #define IO_H
 #include <stdbool.h>
-
 #include "huffman_common.h"
 extern void init_in(char text[]);
 extern void init_out();
