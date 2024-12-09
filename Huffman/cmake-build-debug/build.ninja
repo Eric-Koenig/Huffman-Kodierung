@@ -55,12 +55,6 @@ build CMakeFiles/PPR_A4.dir/main.c.obj: C_COMPILER__PPR_A4_unscanned_Debug C$:/U
   OBJECT_DIR = CMakeFiles\PPR_A4.dir
   OBJECT_FILE_DIR = CMakeFiles\PPR_A4.dir
 
-build CMakeFiles/PPR_A4.dir/huffman_common.c.obj: C_COMPILER__PPR_A4_unscanned_Debug C$:/Users/User/Desktop/Huffman-Kodierung/Huffman/huffman_common.c || cmake_object_order_depends_target_PPR_A4
-  DEP_FILE = CMakeFiles\PPR_A4.dir\huffman_common.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\PPR_A4.dir
-  OBJECT_FILE_DIR = CMakeFiles\PPR_A4.dir
-
 build CMakeFiles/PPR_A4.dir/io.c.obj: C_COMPILER__PPR_A4_unscanned_Debug C$:/Users/User/Desktop/Huffman-Kodierung/Huffman/io.c || cmake_object_order_depends_target_PPR_A4
   DEP_FILE = CMakeFiles\PPR_A4.dir\io.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
@@ -81,7 +75,7 @@ build CMakeFiles/PPR_A4.dir/huffman.c.obj: C_COMPILER__PPR_A4_unscanned_Debug C$
 #############################################
 # Link the executable PPR_A4.exe
 
-build PPR_A4.exe: C_EXECUTABLE_LINKER__PPR_A4_Debug CMakeFiles/PPR_A4.dir/main.c.obj CMakeFiles/PPR_A4.dir/huffman_common.c.obj CMakeFiles/PPR_A4.dir/io.c.obj CMakeFiles/PPR_A4.dir/huffman.c.obj
+build PPR_A4.exe: C_EXECUTABLE_LINKER__PPR_A4_Debug CMakeFiles/PPR_A4.dir/main.c.obj CMakeFiles/PPR_A4.dir/io.c.obj CMakeFiles/PPR_A4.dir/huffman.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PPR_A4.dir
